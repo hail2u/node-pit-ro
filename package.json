@@ -19,10 +19,7 @@
     "password",
     "pit"
   ],
-  "license": {
-    "type": "MIT",
-    "url": "http://hail2u.mit-license.org/2013"
-  },
+  "license": "MIT",
   "main": "index.js",
   "repository": {
     "type": "git",
