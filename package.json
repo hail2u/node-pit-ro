@@ -2,10 +2,9 @@
   "name": "pit-ro",
   "description": "Read-only pit for Node.js.",
   "version": "0.0.1",
-  "author": "Kyo Nagashima <kyo@hail2u.net> (http://hail2u.net/)",
+  "author": "Kyo Nagashima <hail2u@gmail.com> (https://kyonagashima.com/)",
   "bugs": {
-    "url": "https://github.com/hail2u/node-pit-ro/issues",
-    "email": "kyo@hail2u.net"
+    "url": "https://github.com/hail2u/node-pit-ro/issues"
   },
   "dependencies": {
     "js-yaml": "~2.1.3"
